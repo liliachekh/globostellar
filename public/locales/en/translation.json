@@ -1,0 +1,100 @@
+{
+  "headerLink": {
+    "LogIn": "Log in",
+    "Home": "Home",
+    "About us": "About us",
+    "B2B": "Our Services",
+    "Contacts": "Contacts",
+    "Sign up": "Sign up"
+  },
+  "becomePartner": {
+    "title": "Shop smarter with Globostellar",
+    "text": "Discover the benefits of partnering with a trusted wholesale supplier of electronics. Whether you need a small batch or a large shipment, you can rely on us for unbeatable quality. Our clear and transparent grading system ensures you know exactly what you're purchasing, every time.",
+    "listItem1": "Top quality products",
+    "listItem2": "Personalized customer service",
+    "listItem3": "Transparent grading process",
+    "listItem4": "Eco-conscious approach",
+    "btn": "Become a partner"
+  },
+  "aboutUs": {
+    "title": "About us",
+    "subtitle1": "Reliable global",
+    "subtitle2": "electronics supplier",
+    "paragraphText1": "Founded in Estonia in 2024, but with extensive experience in Ukraine since 2016, Globostellar is a dynamic player in the wholesale electronics market. Our goal is to provide businesses with high-quality new and used electronics, including smartphones, tablets, laptops, drones, and accessories, all while maintaining a commitment to transparency and excellent service.",
+    "paragraphText2": "We cater to businesses of all sizes and strive to exceed expectations through our clear grading system, ensuring full transparency on every product. With quick delivery and environmentally responsible practices, we help our clients optimize their operations while contributing to reducing electronic waste and supporting sustainable business practices.",
+    "statisticItems": {
+      "partner": "Reliable Partner Since",
+      "employees": "Number of Employees",
+      "trade": "Number of Trade Partners",
+      "beginnings": "Exciting beginnings in Spain",
+      "products": "Number of Products Sold per 2023"
+    }
+  },
+  "b2b": {
+    "title": "Our Services",
+    "description": {
+      "paragraph1": "At Globostellar, we pride ourselves on providing businesses with high-quality electronics, both new and used. Our comprehensive range of products includes smartphones, tablets, laptops, drones, and accessories from leading global brands like Apple, Samsung, Xiaomi, and more.",
+      "paragraph2": "We ensure a clear and transparent grading system, so our clients always know what they are purchasing. Fast delivery, customized solutions, and a commitment to sustainable business practices are just a few of the reasons why businesses of all sizes choose us."
+    },
+    "subtitle": "Features",
+    "listItems": {
+      "listItem1": "Wholesale of new and used electronics",
+      "listItem2": "Transparent grading and quality assurance",
+      "listItem3": "Fast delivery across Europe",
+      "listItem4": "Partnerships with top global brands like Apple, Samsung, and Xiaomi",
+      "listItem5": "Environmentally responsible practices"
+    }
+  },
+  "signup": {
+    "title": "Become a partner",
+    "сompanyName": "Company Name",
+    "companyNamePlaceholder": "[Company Name]",
+    "countryName": "Country",
+    "countryNamePlaceholder": "[Spain]",
+    "index": "Index",
+    "indexPlaceholder": "08013",
+    "region": "Area or Region",
+    "regionPlaceholder": "[Catalonia]",
+    "city": "City",
+    "cityPlaceholder": "[Barcelona]",
+    "street": "Street",
+    "streetPlaceholder": "[C/ de València]",
+    "houseNumber": "House number",
+    "housePlaceholder": "404",
+    "apartment": "Apartment or office number",
+    "apartmentPlaceholder": "12",
+    "vatNr": "VAT Nr",
+    "vatNrPlaceholder": "#############",
+    "сontactPerson": "Contact Person",
+    "сontactPersonPlaceholder": "[Contact Person]",
+    "email": "Email",
+    "emailPlaceholder": "[example@gmail.com]",
+    "password": "Password",
+    "passwordPlaceholder": "********",
+    "phoneNumber": "Phone Number",
+    "phoneNumberPlaceholder": "+############",
+    "companyWebsite": "Company Website",
+    "companyWebsitePlaceholder": "[Company Website]",
+    "productsOfInterest": "Products Of Interest?",
+    "productsOfInterestPlaceholder": "[smartphones, computers, drones, consoles, etc]",
+    "brandsOfInterest": "Brands Of Interest?",
+    "brandsOfInterestPlaceholder": "[apple, samsung, sony, LG, etc]",
+    "comment": "Comment",
+    "submitButton": "Sign Up"
+  },
+  "signupModal": {
+    "header": "Thank you",
+    "text": "Registration successfully completed! Check your mail."
+  },
+  "footer": {
+    "title": "Contacts",
+    "subtitle": "Globostellar OÜ",
+    "info": {
+      "text1": "Legal address: Harju maakond, Tallinn, Kesklinna linnaosa, Tornimäe tn 5, 10145",
+      "text2": "VAT number: EE102780529",
+      
+      "text4": "Email: ",
+      "text5": "Phone nr: +34 627 575 578"
+    }
+  }
+}

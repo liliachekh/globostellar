@@ -1,0 +1,138 @@
+export const signInFormFields = [
+  {
+    tagType: 'regular',
+    label: "сompanyName",
+    id: "companyName",
+    name: "companyName",
+    type: "text",
+    placeholder: "companyNamePlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "countryName",
+    id: "countryName",
+    name: "countryName",
+    type: "text",
+    placeholder: "countryNamePlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "region",
+    id: "region",
+    name: "region",
+    type: "text",
+    placeholder: "regionPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "city",
+    id: "city",
+    name: "city",
+    type: "text",
+    placeholder: "cityPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "index",
+    id: "index",
+    name: "index",
+    type: "text",
+    placeholder: "indexPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "street",
+    id: "street",
+    name: "street",
+    type: "text",
+    placeholder: "streetPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "houseNumber",
+    id: "house",
+    name: "house",
+    type: "text",
+    placeholder: "housePlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "apartment",
+    id: "apartment",
+    name: "apartment",
+    type: "text",
+    placeholder: "apartmentPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "vatNr",
+    id: "vatNr",
+    name: "vatNr",
+    type: "text",
+    placeholder: "vatNrPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "сontactPerson",
+    id: "contactPerson",
+    name: "contactPerson",
+    type: "text",
+    placeholder: "сontactPersonPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "email",
+    id: "email",
+    name: "email",
+    type: "email",
+    placeholder: "emailPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "password",
+    id: "password",
+    name: "password",
+    type: "password",
+    placeholder: "passwordPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "phoneNumber",
+    id: "telephone",
+    name: "telephone",
+    type: "text",
+    placeholder: "phoneNumberPlaceholder"
+  },
+  {
+    tagType: 'regular',
+    label: "companyWebsite",
+    id: "companyWebsite",
+    name: "companyWebsite",
+    type: "text",
+    placeholder: "companyWebsitePlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "productsOfInterest",
+    id: "interestProducts",
+    name: "interestProducts",
+    type: "text",
+    placeholder: "productsOfInterestPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "brandsOfInterest",
+    id: "brands",
+    name: "brands",
+    type: "text",
+    placeholder: "brandsOfInterestPlaceholder",
+  },
+  {
+    tagType: 'regular',
+    label: "comment",
+    id: "comment",
+    name: "comment",
+    type: "text",
+    placeholder: "",
+  },
+]
